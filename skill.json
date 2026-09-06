@@ -1,0 +1,15 @@
+{
+  "name": "genpark-bradley-terry-elo-rating-tournament-skill",
+  "version": "1.0.0",
+  "description": "Pairwise Bradley-Terry and Elo rating tournament engine for ranking multi-agent strategies and tools.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "bradley-terry",
+    "elo-rating",
+    "tournament-ranking",
+    "agent-evaluation",
+    "pairwise-comparison"
+  ]
+}
